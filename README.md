@@ -1,0 +1,1 @@
+The four folders V-NN,V-PINN,A-NN,A-PINN contain the trained model and test code, and the data folder contains the 85m height continuation data, as well as the processed data for the data increment experiment.
